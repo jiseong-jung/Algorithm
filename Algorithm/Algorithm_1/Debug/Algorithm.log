@@ -1,0 +1,5 @@
+﻿  binary_search.c
+C:\jiseong\algorithm\Algorithm\Algorithm\binary_search.c(7,10): warning C4101: 'pl' :참조되지 않은 지역 변수입니다.
+C:\jiseong\algorithm\Algorithm\Algorithm\binary_search.c(7,6): warning C4101: 'pr' :참조되지 않은 지역 변수입니다.
+C:\jiseong\algorithm\Algorithm\Algorithm\binary_search.c(7,14): warning C4101: 'pc' :참조되지 않은 지역 변수입니다.
+  Algorithm.vcxproj -> C:\jiseong\algorithm\Algorithm\Debug\Algorithm_1.exe
